@@ -8,7 +8,7 @@ NOCOLOR='\e[0m'
 
 APP_BINARY="/usr/bin/xochitl"
 CACHE_DIR="/home/root/.cache/remarkable/xochitl/qmlcache/"
-PATCH_URL="https://raw.githubusercontent.com/mb1986/rm-hacks/main/patches/"
+PATCH_URL="https://raw.githubusercontent.com/mb1986/rm-hacks/release/v0.0.9-3.9.4.2018/patches"
 ZONEINFO_DIR="/usr/share/zoneinfo/"
 
 WGET="wget"
